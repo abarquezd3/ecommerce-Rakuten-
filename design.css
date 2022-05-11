@@ -1,0 +1,273 @@
+.login
+{
+    margin: 40px auto 0px auto;
+    padding-left: 70%
+}
+#pandasection
+{
+    margin: -70px 0px 0px -430px;
+}
+#specialvenue
+{
+    position: absolute;
+    margin: 34px  20px;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+    color: #bf0000;
+}
+#txt1
+{
+    padding-left: 70px;
+    margin: 1px auto 6px auto;
+    position: absolute;
+    color: #333; font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+}
+#txt2
+{
+    padding-left: 260px;
+    margin: 1px auto 6px auto;
+    position: absolute;
+    color: #717171; font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+}
+#txt3
+{
+    margin: -40px auto 9px auto;
+    display:block; color: #bf0000; font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+}
+#login_btn
+{
+    margin: -33px auto 9px 285px;
+    width: 70px;
+    height: 35px;
+    border-color: #bf0000;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #bf0000;
+    color:white;
+}
+#login_btn:hover
+{
+    margin: -33px auto 9px 285px;
+    width: 70px;
+    height: 35px;
+    border-color: #E61717;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #E61717;
+    color:white;
+}
+#home
+{
+    margin: 20px 0px 9px 35px;
+
+}
+#searchbox
+{
+    margin: -52px -8px;
+    width: 75%;
+    height: 45px;
+    outline: none !important;
+    background-color: F7F7F7;
+    border: 2px solid #ccc;
+    border-color: EBEBEB;
+    border-radius: 5px;
+    text-align: left;
+}
+#search_btn
+{
+    position:absolute;
+    margin: -53px auto 0px auto;
+    border-color: #bf0000;
+    background-color: #bf0000;
+    height: 45px;
+    width: 50px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid #bf0000;  
+    text-align: left;  
+}
+#search_btn:hover
+{
+    position:absolute;
+    margin: -53px auto 0px auto;
+    border-color: E61717;
+    background-color: E61717;
+    height: 45px;
+    width: 50px;
+    text-align: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid #E61717;  
+    cursor: pointer;
+}
+#shoppingbasket
+{
+    margin: -62px auto 0px 40px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+#news
+{
+    margin: -62px auto 0px 110px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+#browsinghistory
+{
+    margin: -62px auto 0px 149px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+#favorite
+{
+    margin: -62px auto 0px 228px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+#purchasehistory
+{
+    margin: -62px auto 0px 275px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+#mycoupon
+{
+    margin: -62px auto 0px 354px;
+    position: absolute;
+    font-size: 8px;
+    width: fit-content;
+    height: 45px;
+}
+.ads1
+{
+    text-align: center;
+    display: block;
+}
+.category_pad
+{
+    text-align: center;
+    background-color: #666;
+    height: 55px;
+}
+.categorybtn
+{
+    padding-top: 10px;
+}
+.categorybtn li
+{
+    padding: 10px 22px 26px;
+}
+.mobile
+{
+    background-color: #666;
+}
+.mobile:hover
+{
+    cursor: pointer;
+    background-color: gray;
+}
+.ranking:hover
+{
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: gray;
+}
+.categorybtn li a
+{
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: Meiryo,"Hiragino Kaku Gothic ProN","MS PGothic",sans-serif;
+}
+body
+{
+    /* min-zoom: 33%; */
+    margin: 0%;
+    /* zoom: 3; */
+}
+.menubtn button
+{
+    background-color: FFFFFF;
+    border-color: transparent;
+    padding-top: 30px;
+}
+.menubtn button:hover
+{
+    background-color: FFFFFF;
+    border-color: transparent;
+    padding-top: 30px;
+    text-decoration:underline;
+}
+.shopping_main
+{
+    text-align: center;
+    padding-top: 10px;
+}
+.secialvenuebtn button
+{
+    position: absolute;
+    text-align: center;
+    padding: 10px 10px;
+    padding-left: 21px;
+    font-size: 17px;
+    font-weight: 200;
+    border-color: transparent;
+    color: #717171; font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+    background-color: transparent;
+}
+.secialvenuebtn button:hover
+{
+    position: absolute;
+    text-align: center;
+    padding: 10px 10px;
+    font-size: 17px;
+    font-weight: 700;
+    border-color: transparent;
+    color: #bf0000; font-family: Meiryo,Hiragino Kaku Gothic ProN,MS PGothic,sans-serif;
+    background-color: rgb(240, 240, 240);
+    cursor: pointer;
+}
+.genre
+{
+    color: #333; font-family: Meiryo,"Hiragino Kaku Gothic ProN","MS PGothic",sans-serif;
+    margin: 180px 0px 0px -1230px;
+}
+.genrelistbtn
+{
+    margin: 20px 0px;
+}
+.genrelist button
+{
+    font-size: 12px;
+    font-weight: 400;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: left;
+    margin: -9px 0px 0px 160px;
+    width: 240px;
+    height: 25px;
+}
+.genrelist button:hover
+{
+    font-size: 12px;
+    font-weight: 400;
+    color: #bf0000;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: left;
+    margin: -9px 0px 0px 160px;
+    width: 240px;
+    height: 25px;
+}

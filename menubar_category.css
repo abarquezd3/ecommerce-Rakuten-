@@ -1,0 +1,33 @@
+.mobile
+{
+    margin-top: 10px;
+    background-color: #666;
+}
+.mobile:hover
+{
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: gray;
+}
+.ranking:hover
+{
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: gray;
+}
+.categorybtn
+{
+    padding-top: 10px;
+}
+.categorybtn li
+{
+    padding: 10px 22px 26px;
+}
+.categorybtn li a
+{
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: Meiryo,"Hiragino Kaku Gothic ProN","MS PGothic",sans-serif;
+}
